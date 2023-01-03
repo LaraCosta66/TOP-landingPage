@@ -25,3 +25,37 @@
     font-size: 18px;
     color: #e5e7Eb;
 }
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 80px;
+
+    background-color: #1F2937;
+    color: #f9faf8;
+    gap: 30px;
+}
+.main-txt button{
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    border-style: none;
+    
+  font-size: 18px;
+  color: white;
+ 
+}
+.title{
+    font-size: 48px;
+    font-weight: 700;
+}
+.subtext{
+    font-size: 18px;
+    color: #e5e7Eb;
+}
+.main-img img{
+    width: 800px;
+    height: 500px;
+}
