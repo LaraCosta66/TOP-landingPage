@@ -107,37 +107,43 @@
 .quote strong {
   font-size: 30px;
   font-weight: bold;
-
 }
-.annoucement{
-    padding: 80px;
+.annoucement {
+  padding: 80px;
 }
-.ads{
-    width: auto;
-    background-color: #3882f6;
-    padding: 50px;
-    border-radius: 10px;
+.ads {
+  width: auto;
+  background-color: #3882f6;
+  padding: 50px;
+  border-radius: 10px;
 }
-.propaganda{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+.propaganda {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
-.texto h3{
-    font-weight: bold ;
-    font-size: 30px;
-    color: white;
+.texto h3 {
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
 }
-.texto p{
-    color: #e5e7eb;
+.texto p {
+  color: #e5e7eb;
 }
-.btn-adv button{
-    width: 120px;
-    height: 40px;
-    border-radius: 10px;
-    border: 1px solid white;
-    background-color: #3882f6;
-    color: white;
-    font-size: 18px;
-    font-weight: bold;
+.btn-adv button {
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: #3882f6;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  background-color: #1f2937;
+  color: #e5e7eb;
 }
